@@ -12,6 +12,7 @@ body {
 }
 
 #main-container .main-image h1 {
+  border-bottom: #ccff00 solid 1px;
   font-family: 'Ubuntu Mono', monospace;
   color: white;
   font-size: 40px;
